@@ -1,3 +1,13 @@
+# 📊 GitHub Stats:
+
+<div style="display:flex; flex-direction: row; justify-content: space-between;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozway&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api?username=Frozway&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false">
+</div>
+<br>
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=Frozway&theme=github_dark&hide_border=true)
+
 ## 🌐 Projects
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Frozway?tab=repositories) 
@@ -125,20 +135,3 @@
 ![Miro](https://img.shields.io/badge/Miro-050038?style=for-the-badge&logo=Miro&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
-
-
-<br>
-<br>
-
-# 📊 GitHub Stats:
-
-<div style="display:flex; flex-direction: row; justify-content: space-between;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Frozway&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
-    <img src="https://github-readme-stats.vercel.app/api?username=Frozway&theme=github_dark&hide_border=true&include_all_commits=true&count_private=false">
-</div>
-<br>
-<center>
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=Frozway&theme=github_dark&hide_border=true)
-
-</center>
