@@ -10,7 +10,7 @@ Coming soon... !
 
 For the impatient :
 
- - <a href="thibaut-lefrancois.com">Mon site en construction</a>
+ - <a href="https://thibaut-lefrancois.com">Mon site en construction</a>
  - <a href="https://haunted-house-thibaut.vercel.app/">Maison hanté</a>
  - <a href="https://haunted-house-thibaut-3ldomzdcs-frozways-projects.vercel.app/">Galaxy</a>
  
