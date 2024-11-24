@@ -8,6 +8,3 @@
 Coming soon... !
 
  - <a href="https://thibaut-lefrancois.com">Thibaut LEFRANCOIS - En construction</a>
- 
- 
-
