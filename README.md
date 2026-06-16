@@ -8,10 +8,30 @@ Currently working at [Raccourci Agency](https://www.raccourci.fr), freelancing t
 
 ## What I work with
 
-**Frontend** · React · Vue.js · Astro · TypeScript · Tailwind CSS · GSAP  
-**Creative** · Three.js · React Three Fiber · GLSL shaders · WebGL  
-**Backend** · Kotlin · Ktor · PostgreSQL · ElasticSearch  
-**Infra** · Docker · Kubernetes · GitLab CI/CD
+**Frontend**  
+![React](https://img.shields.io/badge/React-101010?style=flat&logoSize=auto&logo=react&logoColor=FFFFFF)
+![Vue.js](https://img.shields.io/badge/Vue.js-101010?style=flat&logoSize=auto&logo=vuedotjs&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-101010?style=flat&logoSize=auto&logo=astro&logoColor=FFFFFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=flat&logoSize=auto&logo=typescript&logoColor=FFFFFF)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101010?style=flat&logoSize=auto&logo=tailwindcss&logoColor=FFFFFF)
+![GSAP](https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=FFFFFF)
+
+**Creative**  
+![Three.js](https://img.shields.io/badge/Three.js-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
+![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
+![GLSL](https://img.shields.io/badge/GLSL-101010?style=flat&logoSize=auto&logo=opengl&logoColor=FFFFFF)
+![WebGL](https://img.shields.io/badge/WebGL-101010?style=flat&logoSize=auto&logo=webgl&logoColor=FFFFFF)
+
+**Backend**  
+![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=flat&logoSize=auto&logo=kotlin&logoColor=FFFFFF)
+![Ktor](https://img.shields.io/badge/Ktor-101010?style=flat&logoSize=auto&logo=ktor&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=flat&logoSize=auto&logo=postgresql&logoColor=FFFFFF)
+![ElasticSearch](https://img.shields.io/badge/ElasticSearch-101010?style=flat&logoSize=auto&logo=elasticsearch&logoColor=FFFFFF)
+
+**Infra**  
+![Docker](https://img.shields.io/badge/Docker-101010?style=flat&logoSize=auto&logo=docker&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-101010?style=flat&logoSize=auto&logo=kubernetes&logoColor=FFFFFF)
+![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-101010?style=flat&logoSize=auto&logo=gitlab&logoColor=FFFFFF)
 
 ## Featured projects
 
