@@ -1,58 +1,44 @@
 ![Thibaut Lefrançois, freelance full-stack developer](assets/readme-banner.png)
 
-# Hey, I'm Thibaut 👋
+I'm a freelance full-stack developer in La Rochelle. I build web platforms that run in production, and I sweat the parts people see: Kotlin and Java on the server, TypeScript, Vue and React in the browser.
 
-Full-stack developer based in France, focused on creative web development. I like building things that feel as good as they work: smooth animations, solid architecture, and details that matter.
+Available for missions now. Remote across France, on-site in Bordeaux, La Rochelle, Niort and around.
 
-Currently working at [Raccourci Agency](https://www.raccourci.fr), freelancing through my own structure **Arko**, and completing a master's-level program in software engineering at OpenClassrooms.
+[Portfolio](https://thibaut-lefrancois.com) · [CV](https://thibaut-lefrancois.com/cv/thibaut-lefrancois-cv.pdf) · [hello@thibaut-lefrancois.com](mailto:hello@thibaut-lefrancois.com)
 
-🌐 [thibaut-lefrancois.com](https://thibaut-lefrancois.com)
+## Selected work
 
-## What I work with
+Each one has a case study on the portfolio: the constraints, the decisions and what I would do again.
 
-**Frontend**  
-![React](https://img.shields.io/badge/React-101010?style=flat&logoSize=auto&logo=react&logoColor=FFFFFF)
-![Vue.js](https://img.shields.io/badge/Vue.js-101010?style=flat&logoSize=auto&logo=vuedotjs&logoColor=FFFFFF)
-![Astro](https://img.shields.io/badge/Astro-101010?style=flat&logoSize=auto&logo=astro&logoColor=FFFFFF)
-![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=flat&logoSize=auto&logo=typescript&logoColor=FFFFFF)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-101010?style=flat&logoSize=auto&logo=tailwindcss&logoColor=FFFFFF)
-![GSAP](https://img.shields.io/badge/GSAP-101010?style=flat&logoSize=auto&logo=greensock&logoColor=FFFFFF)
+| Project | What it is |
+| --- | --- |
+| [Youbook](https://thibaut-lefrancois.com/work/youbook/) | The activity marketplace of French tourism destinations, from the import of every provider's catalogue to one cart and one payment. Built for Raccourci Agency. |
+| [Steerkit](https://thibaut-lefrancois.com/work/steerkit/) | Craig Reynolds' steering behaviors as small typed functions for JavaScript and Three.js, with no allocation per frame. [On npm](https://www.npmjs.com/package/steerkit), [demos](https://steerkit.thibaut-lefrancois.com). |
+| [Ocarina](https://thibaut-lefrancois.com/work/ocarina/) | The ocarina of Ocarina of Time in the browser: 21 songs recognized as you play them. [Play it](https://ocarina.thibaut-lefrancois.com). |
+| [Ocean Heartbeat](https://thibaut-lefrancois.com/work/ocean-heartbeat/) | An underwater 3D scene built overnight for the Nuit de l'Info 2024. Prizewinner of the "On veut du gros pixel" challenge. [Explore it](https://ocean-heartbeat.thibaut-lefrancois.com). |
 
-**Creative**  
-![Three.js](https://img.shields.io/badge/Three.js-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
-![React Three Fiber](https://img.shields.io/badge/React_Three_Fiber-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
-![GLSL](https://img.shields.io/badge/GLSL-101010?style=flat&logoSize=auto&logo=opengl&logoColor=FFFFFF)
-![WebGL](https://img.shields.io/badge/WebGL-101010?style=flat&logoSize=auto&logo=webgl&logoColor=FFFFFF)
+## Playground
 
-**Backend**  
-![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=flat&logoSize=auto&logo=kotlin&logoColor=FFFFFF)
-![Ktor](https://img.shields.io/badge/Ktor-101010?style=flat&logoSize=auto&logo=ktor&logoColor=FFFFFF)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=flat&logoSize=auto&logo=postgresql&logoColor=FFFFFF)
-![ElasticSearch](https://img.shields.io/badge/ElasticSearch-101010?style=flat&logoSize=auto&logo=elasticsearch&logoColor=FFFFFF)
+Shader and WebGL experiments, small and finished.
 
-**Infra**  
-![Docker](https://img.shields.io/badge/Docker-101010?style=flat&logoSize=auto&logo=docker&logoColor=FFFFFF)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-101010?style=flat&logoSize=auto&logo=kubernetes&logoColor=FFFFFF)
-![GitLab CI/CD](https://img.shields.io/badge/GitLab_CI%2FCD-101010?style=flat&logoSize=auto&logo=gitlab&logoColor=FFFFFF)
+- [3D Carousel](https://3d-carousel.thibaut-lefrancois.com): my first shaders, an image carousel that bends as you scroll.
+- [Trinity](https://trinity.thibaut-lefrancois.com): Laylow's album as a 3D object. Click it to turn it over.
 
-## Featured projects
+## Notes
 
-| Project | Description |
-|---|---|
-| [Portfolio](https://github.com/thibautlfr/portfolio) | Personal portfolio and creative dev blog. Astro, MDX, Tailwind v4, GSAP. |
-| [Ocean Heartbeat](https://github.com/thibautlfr/ocean-heartbeat) | Immersive 3D experience exploring parallels between the human body and the ocean. Built in one night for Nuit de l'Info 2024. |
+- [One design system for the site and everything I make around it](https://thibaut-lefrancois.com/notes/one-design-system-for-everything-around-me/)
+- [Bowser Bros: a vertical Mario in C++ and Qt, built in two and a half weeks](https://thibaut-lefrancois.com/notes/bowser-bros-retrospective/)
+- [My first GLSL shaders: a 3D carousel that bends and splits around the cursor](https://thibaut-lefrancois.com/notes/first-steps-glsl-shaders-threejs/)
 
-## Creative lab
+## Stack
 
-Small WebGL and shader experiments, mostly from [Three.js Journey](https://threejs-journey.com).
+|  |  |
+| --- | --- |
+| Server | Kotlin, Java, Ktor, Spring Boot, PostgreSQL, Temporal |
+| Browser | TypeScript, Vue, React, Astro, Angular |
+| Graphics | Three.js, WebGL, GLSL |
+| Infra | Docker, Kubernetes |
 
-| Experiment | Demo |
-|---|---|
-| [3D Carousel](https://github.com/thibautlfr/3d-carousel) | [Live](https://thibautlfr.github.io/3d-carousel) |
-| [Trinity](https://github.com/thibautlfr/trinity) | [Live](https://trinity-exp.netlify.app) |
-| [Raging Sea](https://github.com/thibautlfr/threejs-journey/tree/29-raging-sea) | [Live](https://ragingsea-experience.netlify.app) |
-| [Galaxy Configurator](https://github.com/thibautlfr/threejs-journey/tree/18-galaxy-generator) | [Live](https://galaxy-configurator.netlify.app) |
+## Elsewhere
 
-## Get in touch
-
-[LinkedIn](https://linkedin.com/in/thibaut-lefrancois) · [Twitter](https://x.com/thibautlfr) · [Figma](https://www.figma.com/@thibautlfr)
+[LinkedIn](https://linkedin.com/in/thibaut-lefrancois) · [X](https://x.com/thibautlfr) · [Instagram](https://www.instagram.com/thibautlfr/)
