@@ -1,3 +1,5 @@
+![Thibaut Lefrançois, freelance full-stack developer](assets/readme-banner.png)
+
 # Hey, I'm Thibaut 👋
 
 Full-stack developer based in France, focused on creative web development. I like building things that feel as good as they work: smooth animations, solid architecture, and details that matter.
