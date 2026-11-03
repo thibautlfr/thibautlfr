@@ -32,12 +32,10 @@ Shader and WebGL experiments, small and finished.
 
 ## Stack
 
-|  |  |
-| --- | --- |
-| Server | Kotlin, Java, Ktor, Spring Boot, PostgreSQL, Temporal |
-| Browser | TypeScript, Vue, React, Astro, Angular |
-| Graphics | Three.js, WebGL, GLSL |
-| Infra | Docker, Kubernetes |
+- **Server**: Kotlin, Java, Ktor, Spring Boot, PostgreSQL, Temporal
+- **Browser**: TypeScript, Vue, React, Astro, Angular
+- **Graphics**: Three.js, WebGL, GLSL
+- **Infra**: Docker, Kubernetes
 
 ## Elsewhere
 
