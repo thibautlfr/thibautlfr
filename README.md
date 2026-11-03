@@ -32,10 +32,33 @@ Shader and WebGL experiments, small and finished.
 
 ## Stack
 
-- **Server**: Kotlin, Java, Ktor, Spring Boot, PostgreSQL, Temporal
-- **Browser**: TypeScript, Vue, React, Astro, Angular
-- **Graphics**: Three.js, WebGL, GLSL
-- **Infra**: Docker, Kubernetes
+**Server**
+
+![Kotlin](https://img.shields.io/badge/Kotlin-101010?style=flat&logoSize=auto&logo=kotlin&logoColor=FFFFFF)
+![Java](https://img.shields.io/badge/Java-101010?style=flat&logoSize=auto&logo=openjdk&logoColor=FFFFFF)
+![Ktor](https://img.shields.io/badge/Ktor-101010?style=flat&logoSize=auto&logo=ktor&logoColor=FFFFFF)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-101010?style=flat&logoSize=auto&logo=springboot&logoColor=FFFFFF)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-101010?style=flat&logoSize=auto&logo=postgresql&logoColor=FFFFFF)
+![Temporal](https://img.shields.io/badge/Temporal-101010?style=flat&logoSize=auto&logo=temporal&logoColor=FFFFFF)
+
+**Browser**
+
+![TypeScript](https://img.shields.io/badge/TypeScript-101010?style=flat&logoSize=auto&logo=typescript&logoColor=FFFFFF)
+![Vue](https://img.shields.io/badge/Vue-101010?style=flat&logoSize=auto&logo=vuedotjs&logoColor=FFFFFF)
+![React](https://img.shields.io/badge/React-101010?style=flat&logoSize=auto&logo=react&logoColor=FFFFFF)
+![Astro](https://img.shields.io/badge/Astro-101010?style=flat&logoSize=auto&logo=astro&logoColor=FFFFFF)
+![Angular](https://img.shields.io/badge/Angular-101010?style=flat&logoSize=auto&logo=angular&logoColor=FFFFFF)
+
+**Graphics**
+
+![Three.js](https://img.shields.io/badge/Three.js-101010?style=flat&logoSize=auto&logo=threedotjs&logoColor=FFFFFF)
+![WebGL](https://img.shields.io/badge/WebGL-101010?style=flat&logoSize=auto&logo=webgl&logoColor=FFFFFF)
+![GLSL](https://img.shields.io/badge/GLSL-101010?style=flat&logoSize=auto&logo=opengl&logoColor=FFFFFF)
+
+**Infra**
+
+![Docker](https://img.shields.io/badge/Docker-101010?style=flat&logoSize=auto&logo=docker&logoColor=FFFFFF)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-101010?style=flat&logoSize=auto&logo=kubernetes&logoColor=FFFFFF)
 
 ## Elsewhere
 
